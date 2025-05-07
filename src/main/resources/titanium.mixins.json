@@ -3,7 +3,8 @@
 	"package": "com.atom596.titanium.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"TitaniumMixin"
+		"GeodeConfigMixin",
+        "GeodeFeatureMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
