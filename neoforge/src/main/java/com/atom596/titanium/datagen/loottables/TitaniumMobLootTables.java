@@ -22,14 +22,10 @@ public class TitaniumMobLootTables implements LootTableSubProvider {
 
     @Override
     public void generate(BiConsumer<ResourceKey<LootTable>, LootTable.Builder> consumer) {
-        consumer.accept(ResourceKey.create(Registries.LOOT_TABLE, ResourceLocation.withDefaultNamespace("entities/shulker")), LootTable.lootTable()
+        consumer.accept(ResourceKey.create(Registries.LOOT_TABLE, ResourceLocation.withDefaultNamespace("entities/shulker_bullet")), LootTable.lootTable()
                 .withPool(LootPool.lootPool().setRolls(ConstantValue.exactly(1))
                         .add(LootItem.lootTableItem(TitaniumItems.END_POWDER.get())
                                 .apply(SetItemCountFunction.setCount(UniformGenerator.between(1.0f, 4.0f)))
-                        )
-                ).withPool(LootPool.lootPool().setRolls(UniformGenerator.between(0.0f, 1.0f))
-                        .add(LootItem.lootTableItem(Items.SHULKER_SHELL)
-                                .apply(SetItemCountFunction.setCount(ConstantValue.exactly(1)))
                         )
                 )
         );
