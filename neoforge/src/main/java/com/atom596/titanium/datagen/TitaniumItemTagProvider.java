@@ -36,5 +36,7 @@ public class TitaniumItemTagProvider extends ItemTagsProvider {
         this.tag(ItemTags.LEG_ARMOR).add(TitaniumItems.TITANIUM_LEGGINGS.get());
 
         this.tag(ItemTags.FOOT_ARMOR).add(TitaniumItems.TITANIUM_BOOTS.get());
+
+        this.tag(ItemTags.BEACON_PAYMENT_ITEMS).add(TitaniumItems.TITANIUM_INGOT.get());
     }
 }
