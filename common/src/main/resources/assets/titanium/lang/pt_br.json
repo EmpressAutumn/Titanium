@@ -1,0 +1,53 @@
+{
+    "item.titanium.titanium_shovel": "Pá de Titânio",
+    "item.titanium.titanium_hoe": "Enxada de Titânio",
+    "item.titanium.titanium_pickaxe": "Picareta de Titânio",
+    "item.titanium.titanium_sword": "Espada de Titânio",
+    "item.titanium.titanium_axe": "Machado de Titânio",
+    "item.titanium.titanium_helmet": "Capacete de Titânio",
+    "item.titanium.titanium_chestplate": "Peitoral de Titânio",
+    "item.titanium.titanium_leggings": "Calças de Titânio",
+    "item.titanium.titanium_boots": "Botas de Titânio",
+    "item.titanium.raw_titanium": "Titânio Bruto",
+    "item.titanium.titanium_nugget": "Pepita de Titânio",
+    "item.titanium.titanium_ingot": "Lingote de Titânio",
+    "item.titanium.music_disc_amethyst": "Disco Musical",
+    "item.titanium.titanium_horse_armor": "Armadura de Titânio para Cavalo",
+    "item.titanium.end_powder": "Pó do End",
+    "item.titanium.flight_charge": "Projétil de Voo",
+    "item.titanium.testing_wand": "Varinha de Testes",
+    "item.titanium.testing_wand.desc": "§C§LAviso:§R§C Isso irá destruir seu mundo",
+
+    "item.titanium.dynamic_gear.base": "Material base: %s",
+    "item.titanium.dynamic_gear.hold_shift": "Pressione [%s] para detalhes",
+    "item.titanium.dynamic_gear.perks_from": "A base de %s concede:",
+    "item.titanium.dynamic_gear.no_change": "Sem benefícios",
+    "item.titanium.dynamic_gear.material.iron": "Ferro",
+
+    "block.titanium.titanium_ore": "Minério de Titânio",
+    "block.titanium.deepslate_titanium_ore": "Minério de Titânio de Ardosiabissal",
+    "block.titanium.end_titanium_ore": "Minério de Titânio do End",
+    "block.titanium.raw_titanium_block": "Bloco de Titânio Bruto",
+    "block.titanium.titanium_block": "Bloco de Titânio",
+    "block.titanium.titanium_lantern": "Lampião de Titânio",
+    "block.titanium.titanium_bricks": "Tijolos de Chapa de Titânio",
+    "block.titanium.titanium_brick_slab": "Laje de Tijolos de Chapa de Titânio",
+    "block.titanium.titanium_brick_stairs": "Escadas de Tijolos de Chapa de Titânio",
+    "block.titanium.titanium_brick_wall": "Muro de Tijolos de Chapa de Titânio",
+    "block.titanium.chiseled_titanium_bricks": "Tijolos de Chapa de Titânio Talhados",
+
+    "itemGroup.titanium.titanium_group": "Titânio",
+
+    "jukebox_song.titanium.amethyst": "DestoLynx - Amethyst",
+
+    "advancements.titanium.get_titanium.title": "Mais duro que o aço",
+    "advancements.titanium.get_titanium.description": "Derreta um Lingote de Titânio",
+    "advancements.titanium.titanium_tools.title": "Melhoria temporária",
+    "advancements.titanium.titanium_tools.description": "Construa um conjunto de ferramentas mais duráveis",
+    "advancements.titanium.titanium_armor.title": "Melhoria opcional",
+    "advancements.titanium.titanium_armor.description": "Tenha em mãos a força de um traje completo de titânio",
+    "advancements.titanium.flight_charge.title": "O céu eu vou tocar",
+    "advancements.titanium.flight_charge.description": "Fabrique um Projétil de Voo, que permite movimentação vertical quase infinita",
+
+    "tag.block.titanium_ores": "Minérios de Titânio"
+}
